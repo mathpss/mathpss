@@ -6,6 +6,8 @@ Tenho 32 anos, sou um profissional em transição de carreira para Full-stack.
  
  🌱 **Atualmente**: Estudando React, Typescript, C#, SQL e Docker.
 
+ 🔗 **Contato**: [WhatsApp](https://wa.me/5519993957617)
+
 ---
 
 ## 📜 Certificados
