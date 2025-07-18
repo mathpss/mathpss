@@ -18,7 +18,7 @@ Tenho 32 anos, sou um profissional em transição de carreira para Full-stack.
 
 ---
 
-##📖 Cursos
+## 📖 Cursos
 
 | Cursos                                                       | Plataforma             | Carga Horária |
 |--------------------------------------------------------------|------------------------|---------------|
@@ -26,6 +26,25 @@ Tenho 32 anos, sou um profissional em transição de carreira para Full-stack.
 |Formação React Developer                                      |DIO                     |34 hrs         |
 |Formação TypeScript  Developer                                |DIO                     |44 hrs         |
 
+---
+
+## 🚀 Repositório em Destaque
+🍴 [Portifólio Restaurante](https://github.com/mathpss/PortifolioRestaurante)
+Projeto pessoal Web Full-Stack, onde aplico novos conhecimentos.
+
+O projeto se trata de um sistema onde o cliente consegue montar o pedido via web, chegando no restaurante o pedido já seria impresso.
+### Tecnologias no BackEnd
+- .NET 8.0
+- FluentValidation
+- JwtBearer
+- EntityFrameworkCore
+
+### Tecnologias no FrontEnd
+
+- React
+- axios
+- React Router Dom
+- Styled-Components
 
 <!--
 **mathpss/mathpss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
