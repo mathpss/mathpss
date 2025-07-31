@@ -1,8 +1,8 @@
 ## Olá, sou Matheus Philippe 👋
 
-Tenho 32 anos, sou um profissional em transição de carreira para Full-stack.
+Tenho 32 anos, sou um profissional em transição de carreira para Full-stack com ênfase em Back-End.
 
- 🎯 **Objetivo**: Trabalhar com desenvolvimento Full-stack.
+ 🎯 **Objetivo**: Trabalhar com desenvolvimento Full-stack ou Back-End.
  
  🌱 **Atualmente**: Estudando React, Typescript, C#, SQL e Docker.
 
