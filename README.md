@@ -12,7 +12,7 @@ Tenho 32 anos, sou um profissional em transição de carreira para Full-stack co
 
 ## 📜 Certificados
 
-| CCNA - Cisco Certified Network Associate                     |  Cisco ID – Nº CSCO11980982      | 2013 |
+| CCNA - Cisco Certified Network Associate                     |  Cisco ID – Nº CSCO11980982      | 2011 |
 |--------------------------------------------------------------|----------------------------------|------|
 | CCNP - Cisco Certified Network Professional                  |  Cisco ID – Nº CSCO11980982      | 2014 |
 
